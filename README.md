@@ -1,8 +1,8 @@
 # ArtofSudoku
 
-![](icon.png)
-![](art.jpg)
-![](1024-500.jpg)
+![](img/icon.png)
+![](img/art.jpg)
+![](img/1024-500.jpg)
 ![](img/0.jpg)
 ![](img/1.jpg)
 ![](img/2.jpg)
